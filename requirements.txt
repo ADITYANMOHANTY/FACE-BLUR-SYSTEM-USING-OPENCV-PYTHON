@@ -1,0 +1,10 @@
+numpy==1.15.4
+opencv-python==3.4.3.18
+
+Personal Message: I will make sure that after running this project you don't have to learn image editing or don't have to download any photo editing software to blur your face you just need to type simple command and it will be done in 10 seconds.
+
+Steps to run the program:
+- Activate And Install OpenCV First.
+- Go to the face blur detection file location using command prompt.
+- After that open blur.py file using command prompt.
+
